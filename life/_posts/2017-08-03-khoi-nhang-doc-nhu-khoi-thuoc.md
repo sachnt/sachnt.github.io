@@ -5,11 +5,11 @@ author: admin
 tags: ["Sức khỏe"]
 ---
 Nhang được làm từ một hợp chất gồm mùn cưa và chất kết dính. Mùn cưa có thể được lấy từ một loại gỗ bất kỳ, nên rất khó bảo đảm chất lượng khói sinh ra khi đốt, và không thẻ kiểm soát việc có độc hay.
-
+{% include img key='http://tinhtuy.org/wp-content/uploads/2017/06/di-chua-1.jpg' %}
 Bên cạnh đó, để tạo mùi thơm, người làm nhang có thể sử dụng rất nhiều loại hương liệu như bột quế, trầm hương, tinh dầu hoặc sử dụng hương liệu tổng hợp. Đây chính là nguồn chất độc vô cùng nguy hiểm.
 
 Thông thường, thành phần tạo mùi thơm trong khói nhang là những hợp chất thơm có tên khoa học là benzene. Sau khi đốt nhang hai phút trong phòng kín, khói nhang chứa chất làm thơm benzene có thể làm tổn thương mắt, da, hệ hô hấp, hệ thần kinh trung ương, gan, thận, làm mất sự tự điều hòa cơ thể và trầm cảm.
-{% include img key='http://tinhtuy.org/wp-content/uploads/2017/06/di-chua-1.jpg' %}
+
 Đây là lý do khi ở trong khu vực có nhiều khói nhang chúng ta bị ho, chảy nước mắt hoặc choáng váng, nhức đầu và khó thở, nhưng khi ra khỏi nơi đó thì sẽ hết và thoải mái trở lại.
 
 Gây nhiễm trùng đường hô hấp. Theo một số nghiên cứu cho thấy, khói nhang có thể gây hại tới sức khỏe con người, vì khi đốt nhang trong phòng sẽ tạo ra khói, gây ô nhiễm không khí. Khí này có thể gây ra viêm phổi và làm tăng nguy cơ gây bệnh cho các cơ quan thuộc hệ hô hấp. Bên cạnh đó, người nhạy cảm với thành phần của khói nhang sẽ bị ho sặc sụa và hắt hơi liên tục, thậm chí nghẹt thở.
