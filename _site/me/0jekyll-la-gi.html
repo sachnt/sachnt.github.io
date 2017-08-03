@@ -12,12 +12,13 @@
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.css" rel="stylesheet"/>
 	<link href="/assets/skin_yzazy.css" rel="stylesheet"/>	
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="http://localhost:4000/archive"/>
-<meta property="og:title" content="Trang Archive"/>
-<meta property="og:image" content="http://localhost:4000/assets/logo.png"/>
-<meta property="og:description" content="{% include {{site.skin}}/page_archive %}
-"/>
-	<title>Trang Archive</title>
+<meta property="og:url" content="http://localhost:4000/me/0jekyll-la-gi"/>
+<meta property="og:title" content="0jekyll là gì"/>
+<meta property="og:image" content="http://localhost:4000/assets/noimage.png"/>
+<meta property="og:description" content="jekyll là trình tự tạo trang html tĩnh.
+
+0jekyl..."/>
+	<title>0jekyll là gì</title>
 	<style>
 		img{display:block;margin:0 auto;max-width:75%;}
 		.navcat{display:inline-block;max-height:40px;}
@@ -33,107 +34,75 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 col-md-8">
-			<div class="row">
+<div class="row">
+<a class="pull-left btn btn-link" href="/orther/jekyll-liquid-cheatsheet"><b>&laquo; jekyll liquid cheatsheet</b></a><a class="pull-right btn btn-link" href="/life/khoi-nhang-doc-nhu-khoi-thuoc"><b>Khói nhang độc như khói thuốc &raquo;</b></a>
+</div>
+		<div class="row">
+				<div class="col-md-3 hidden-xs hidden-sm">
+					<div class="row">
+<center><img src="https://placehold.it/160x600"/></center>
+					</div>
+				</div>
+			<div id="entry" class="thumbnail">
+			<h3>0jekyll là gì</h3>
+<p><i class="glyphicon glyphicon-user"></i><span><a href="/admin">admin</a> </span><i class="glyphicon glyphicon-time"></i>2017-08-01 00:00:00 +0700</p>
+	<p>jekyll là trình tự tạo trang html tĩnh.</p>
+
+<p>0jekyll là bộ mã nguồn theo jekyll thích hợp làm trang web cá nhân, trang tin,…</p>
+
+<p>Ưu điểm jekyll là tải nhanh vì toàn là html tĩnh và không cần truy vấn cơ sở dữ liệu.</p>
+
+<p>Một điểm nổi bật nữa là có thể host lên các máy chủ đơn giản. Đặt biệt là github pages hổ trợ đầy đủ.</p>
+
+<p>Các tính năng sẵn có trong 0jekyll</p>
+
+<ul>
+  <li>Hổ trợ skin</li>
+  <li>Hổ trợ tạo hình thu nhỏ tự động</li>
+  <li>Chia mục (categories), nhãn (tags) rỏ ràng.</li>
+</ul>
+
 <div class="hidden-xs text-center">
 <center><img src="https://placehold.it/728x90" class="img-responsive"/></center>
 </div>
-				<div class="thumbnail">
-            <ul>
-                
-                
-                
+<!--<script>
+function slugify(text){return text.toString().toLowerCase().trim().replace(/&/g, '-and-').replace(/[\s\W-]+/g, '-').replace(/[^a-zA-Z0-9-_]+/g,'');}
+$(function() {
+  var ref = new Firebase("https://sieutv-comment.firebaseio.com/"),
+    postRef = ref.child(slugify(window.location.pathname));
 
-                    
-                    
+    postRef.on("child_added", function(snapshot) {
+      var newPost = snapshot.val();
+      $(".comments").prepend('<div class="comment">' +
+        '<div class="row"><img src="http://www.gravatar.com/avatar/' + newPost.md5Email + '?s=100&d=retro" class="pull-left"/>' + 
+        '<h3>' + newPost.name + '</h3> ' +
+        '<span class="date">' + moment(newPost.postedAt).fromNow() + '</span><p>' + newPost.message  + '</p></div>');
+    });
 
-                    
-                    <li><a role="button" data-toggle="collapse" href="#collapse2017" aria-expanded="false" aria-controls="collapse2017">2017</a>
-                        <ul class="collapse in" id="collapse2017">
-                            <li><a role="button" data-toggle="collapse" href="#collapse2017August" aria-expanded="false" aria-controls="collapse2017August">August</a>
-                                <ul class="collapse in" id="collapse2017August">
-                    
+    $("#comment").submit(function() {
+      postRef.push().set({
+        name: $("#name").val(),
+        md5Email: md5($("#email").val()),
+		message: $("#message").val(),
+        postedAt: Firebase.ServerValue.TIMESTAMP
+      });
 
-                    
-                        <li><a href="/me/lam-nguoi-nen-gia-kho">Làm người, cảnh giới cao nhất, kỳ thực là 2 chữ “giả khờ”</a></li>
-                    
-
-                    
-
-                    
-                    
-                    
-                
-
-                    
-                    
-
-                    
-
-                    
-                        <li><a href="/life/khoi-nhang-doc-nhu-khoi-thuoc">Khói nhang độc như khói thuốc</a></li>
-                    
-
-                    
-
-                    
-                    
-                    
-                
-
-                    
-                    
-
-                    
-
-                    
-                        <li><a href="/me/0jekyll-la-gi">0jekyll là gì</a></li>
-                    
-
-                    
-
-                    
-                    
-                    
-                
-
-                    
-                    
-
-                    
-
-                    
-
-                    
-                        </ul></li>
-                            <li><a role="button" data-toggle="collapse" href="#collapse2017July" aria-expanded="false" aria-controls="collapse2017July">July</a>
-                                <ul class="collapse" id="collapse2017July">
-                                <li><a href="/orther/jekyll-liquid-cheatsheet">jekyll liquid cheatsheet</a></li>
-                    
-
-                    
-                    
-                    
-                
-
-                    
-                    
-
-                    
-
-                    
-                        <li><a href="/work/jekyll-on-android">Jekyll on android</a></li>
-                    
-
-                    
-
-                    
-                    
-                    
-                
-            </ul>
+      $("input[type=text], textarea").val("");
+      return false;
+    });
+});
+</script>
+<div class="comments">Comment</div>
+<form id="comment">
+<input id="name" type="text" class="form-control" placeholder="Name">
+<input id="email" type="text" class="form-control" placeholder="Email">
+<textarea id="message" class="form-control" rows="3" placeholder="Comment"></textarea>
+<input type="submit" value="Submit">
+</form>
+-->
 			</div>
 		</div>
-			</div>
+			</div> <!--cot trai-->
 			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="row">
 					<div class="input-group">
@@ -159,26 +128,26 @@
 })();
 </script>
 </div-->
-			<div class="row">
+				<div class="row">
 					<div class="col-xs-6">
-						<div class="row">
+				<div class="row">
 <div class="hidden-xs hidden-sm hidden-md text-center">
 <center><img src="https://placehold.it/200x200" class="img-responsive"/></center>
 </div>
+<ul class="nav nav-pills nav-stacked"><li class="active"><a href="/me">Xem thêm cùng mục</a></li><li><a href="/me/lam-nguoi-nen-gia-kho">Làm người, cảnh giới cao nhất, kỳ thực là 2 chữ “giả khờ”</a></li><li><a href="/me/0jekyll-la-gi">0jekyll là gì</a></li></ul>
+
 <ul class="nav nav-pills nav-stacked"><li class="active"><a href="/tag#ghim">ghim</a></li><li><a href="/me/0jekyll-la-gi">0jekyll là gì</a></li></ul>
 
-<ul class="nav nav-pills nav-stacked"><li class="active"><a href="/me">me</a></li><li><a href="/me/lam-nguoi-nen-gia-kho">Làm người, cảnh giới cao nhất, kỳ thực là 2 chữ “giả khờ”</a></li><li><a href="/me/0jekyll-la-gi">0jekyll là gì</a></li></ul>
-
-						</div>
+				</div>
 					</div>
 					<div class="col-xs-6">
-				<div class="row">
-<ul class="nav nav-pills nav-stacked"><h4><a href="/archive">2017</a></h4><li><a href="/me/lam-nguoi-nen-gia-kho">Làm người, cảnh giới cao nhất, kỳ thực là 2 chữ “giả khờ”</a></li><li><a href="/life/khoi-nhang-doc-nhu-khoi-thuoc">Khói nhang độc như khói thuốc</a></li><li><a href="/me/0jekyll-la-gi">0jekyll là gì</a></li><li><a href="/orther/jekyll-liquid-cheatsheet">jekyll liquid cheatsheet</a></li><li><a href="/work/jekyll-on-android">Jekyll on android</a></li></ul>
+						<div class="row">
+
 
 <div>
 <center><img src="https://placehold.it/150x150" class="img-responsive"/></center>
 </div>
-				</div>
+						</div>
 					</div>
 					<div class="col-xs-12">
 						<div class="row">
@@ -190,8 +159,7 @@
 						</div>
 					</div>
     			</div>
-
-			</div>
+			</div><!--cot phai-->
 		</div>
 	</div>
 </main>

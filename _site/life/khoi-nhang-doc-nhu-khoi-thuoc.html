@@ -12,13 +12,11 @@
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.css" rel="stylesheet"/>
 	<link href="/assets/skin_yzazy.css" rel="stylesheet"/>	
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="http://localhost:4000/work/jekyll-on-android"/>
-<meta property="og:title" content="Jekyll on android"/>
-<meta property="og:image" content="https://i.ytimg.com/vi/Y7Ihxz14Y78/hqdefault.jpg"/>
-<meta property="og:description" content="
-
-Hướng dẫn cài đặt jekyll trên android không c..."/>
-	<title>Jekyll on android</title>
+<meta property="og:url" content="http://localhost:4000/life/khoi-nhang-doc-nhu-khoi-thuoc"/>
+<meta property="og:title" content="Khói nhang độc như khói thuốc"/>
+<meta property="og:image" content="http://tinhtuy.org/wp-content/uploads/2017/06/di-chua-1.jpg"/>
+<meta property="og:description" content="Nhang được làm từ một hợp chất gồm mùn cưa và c..."/>
+	<title>Khói nhang độc như khói thuốc</title>
 	<style>
 		img{display:block;margin:0 auto;max-width:75%;}
 		.navcat{display:inline-block;max-height:40px;}
@@ -35,7 +33,7 @@ Hướng dẫn cài đặt jekyll trên android không c..."/>
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 col-md-8">
 <div class="row">
-<a class="pull-right btn btn-link" href="/orther/jekyll-liquid-cheatsheet"><b>jekyll liquid cheatsheet &raquo;</b></a>
+<a class="pull-left btn btn-link" href="/me/0jekyll-la-gi"><b>&laquo; 0jekyll là gì</b></a><a class="pull-right btn btn-link" href="/me/lam-nguoi-nen-gia-kho"><b>Làm người, cảnh giới cao nhất, kỳ thực là 2 chữ “giả khờ” &raquo;</b></a>
 </div>
 		<div class="row">
 				<div class="col-md-3 hidden-xs hidden-sm">
@@ -44,67 +42,32 @@ Hướng dẫn cài đặt jekyll trên android không c..."/>
 					</div>
 				</div>
 			<div id="entry" class="thumbnail">
-			<h3>Jekyll on android</h3>
-<p><i class="glyphicon glyphicon-user"></i><span><a href="/admin">admin</a> </span><i class="glyphicon glyphicon-time"></i>2017-07-30 00:00:00 +0700</p>
-	<!-- <img src="https://i.ytimg.com/vi/Y7Ihxz14Y78/hqdefault.jpg"/> -->
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/Y7Ihxz14Y78"></iframe></div>
-<p>Hướng dẫn cài đặt jekyll trên android không cần root thiết bị.</p>
+			<h3>Khói nhang độc như khói thuốc</h3>
+<p><i class="glyphicon glyphicon-user"></i><span><a href="/admin">admin</a> </span><i class="glyphicon glyphicon-time"></i>2017-08-03 00:00:00 +0700</p>
+	<p>Nhang được làm từ một hợp chất gồm mùn cưa và chất kết dính. Mùn cưa có thể được lấy từ một loại gỗ bất kỳ, nên rất khó bảo đảm chất lượng khói sinh ra khi đốt, và không thẻ kiểm soát việc có độc hay.</p>
 
-<p>Đầu tiên bạn phải cài ứng dụng termux, vào play store mà cài dễ thôi mà. Ôtê coi như đã có termux rồi dzô.</p>
+<p>Bên cạnh đó, để tạo mùi thơm, người làm nhang có thể sử dụng rất nhiều loại hương liệu như bột quế, trầm hương, tinh dầu hoặc sử dụng hương liệu tổng hợp. Đây chính là nguồn chất độc vô cùng nguy hiểm.</p>
 
-<ul>
-  <li>Cấp quyền w/r sdcard cho termux
-    <div class="highlighter-rouge"><pre class="highlight"><code>termux-setup-storage
-</code></pre>
-    </div>
-  </li>
-  <li>Di chuyển đến thư mục có quyền
-    <div class="highlighter-rouge"><pre class="highlight"><code>cd /sdcard/Android/data/com.termux/files
-</code></pre>
-    </div>
-  </li>
-  <li>Nâng cấp cái gói termux
-    <div class="highlighter-rouge"><pre class="highlight"><code>pkg update
-</code></pre>
-    </div>
-  </li>
-  <li>Cài cái gói cho jekyll
-    <div class="highlighter-rouge"><pre class="highlight"><code>pkg install ruby-dev libxml2-dev libxslt-dev libffi-dev pkg-config make clang
-</code></pre>
-    </div>
-  </li>
-  <li>Cài gói nokogiri, cấu hình đường đẫn
-    <div class="highlighter-rouge"><pre class="highlight"><code>gem install nokogiri -- --use-system-libraries --with-xml2-config=/data/data/com.termux/files/usr/bin/xml2-config --with-xml2-include=/data/data/com.termux/files/usr/include/libxml2
-</code></pre>
-    </div>
-  </li>
-  <li>Cài jekyll kiểu đầy đủ như github pages
-    <div class="highlighter-rouge"><pre class="highlight"><code>gem install github-pages
-</code></pre>
-    </div>
-  </li>
-  <li>Cài cái cuối cùng. xong
-    <div class="highlighter-rouge"><pre class="highlight"><code>gem install listen bundler
-</code></pre>
-    </div>
-  </li>
-</ul>
+<p>Thông thường, thành phần tạo mùi thơm trong khói nhang là những hợp chất thơm có tên khoa học là benzene. Sau khi đốt nhang hai phút trong phòng kín, khói nhang chứa chất làm thơm benzene có thể làm tổn thương mắt, da, hệ hô hấp, hệ thần kinh trung ương, gan, thận, làm mất sự tự điều hòa cơ thể và trầm cảm.</p>
 
-<p>Tao thử site mẫu</p>
-<div class="highlighter-rouge"><pre class="highlight"><code>jekyll new demosite
-</code></pre>
-</div>
-<p>Chạy server jekyll</p>
-<div class="highlighter-rouge"><pre class="highlight"><code>cd demosite
-jekyll server
-</code></pre>
-</div>
-<p>(Lần sau có chạy server lại thì di chuyển vào thư mục có project)</p>
-<div class="highlighter-rouge"><pre class="highlight"><code>cd /sdcard/Android/data/com.termux/files/(projectname)
-</code></pre>
-</div>
+<p><img src="http://tinhtuy.org/wp-content/uploads/2017/06/di-chua-1.jpg" alt="" /></p>
+<center><a data-fancybox="gallery" href="http://tinhtuy.org/wp-content/uploads/2017/06/di-chua-1.jpg"><i>(xem hình)</i></a></center>
 
-<p>Weldone.</p>
+<p>Đây là lý do khi ở trong khu vực có nhiều khói nhang chúng ta bị ho, chảy nước mắt hoặc choáng váng, nhức đầu và khó thở, nhưng khi ra khỏi nơi đó thì sẽ hết và thoải mái trở lại.</p>
+
+<p>Gây nhiễm trùng đường hô hấp. Theo một số nghiên cứu cho thấy, khói nhang có thể gây hại tới sức khỏe con người, vì khi đốt nhang trong phòng sẽ tạo ra khói, gây ô nhiễm không khí. Khí này có thể gây ra viêm phổi và làm tăng nguy cơ gây bệnh cho các cơ quan thuộc hệ hô hấp. Bên cạnh đó, người nhạy cảm với thành phần của khói nhang sẽ bị ho sặc sụa và hắt hơi liên tục, thậm chí nghẹt thở.</p>
+
+<p>Gây bệnh phổi tắc nghẽn mãn tính và hen suyễn. Trong lớp khói được sinh ra có rất nhiều chất độc, gây hại cho hệ hô hấp. Hít phải một lượng lớn khói nhang thì sẽ có nguy cơ mắc bệnh phổi tắc nghẽn mãn tính và suyễn,vì khói nhang gây độc ngang với khói thuốc lá.</p>
+
+<p>Gây dị ứng da. Tiếp xúc trong một thời gian dài với khói nhang sẽ gây kích ứng mắt, đặc biệt là ở trẻ em và người lớn tuổi. Người nhạy cảm sẽ bị ngứa khi tiếp xúc với khói nhang. Những vùng da mỏng như xung quanh mí mắt, mũi và khuỷu tay là nơi dễ bị dị ứng.</p>
+
+<p>Gây bệnh lý về thần kinh. Người tiếp xúc thường xuyên với khói nhang sẽ bị đau đầu, khó tập trung và hay quên. Đây là những biểu hiện về bệnh lý của hệ thần kinh mà người sử dụng nhang thường gặp phải. Các chất độc tác động lên tế bào não, gây ra bệnh lý về thần kinh.</p>
+
+<p>Làm tăng nguy cơ ung thư đường hô hấp. Theo nghiên cứu mới đây, tiếp xúc lâu dài với khói nhang sẽ làm tăng nguy cơ ung thư đường hô hấp cho người sử dụng.</p>
+
+<p>Gây nhiễm độc cho cơ thể. Đốt nhang sẽ sinh ra khói có rất nhiều chất độc hại, trong đó có chì, sắt và magiê. Các chất độc này buộc thận phải làm việc nhiều hơn để loại thải, dần dần dẫn tới các bệnh về thận. Khói nhang còn góp phần làm tăng nồng độ các tạp chất trong máu.</p>
+
+<p>Làm suy yếu hệ tim mạch. Đốt nhang hàng ngày sẽ gây ra tác động tiêu cực đến sức khỏe, cụ thể là hệ tim mạch. Theo các chuyên gia về tim mạch, hít khói nhang lâu dài sẽ làm tăng nguy cơ suy tim lên đến 12% và các bệnh về mạch vành là 10%. Hít phải các hợp chất trong khói nhang cũng làm tăng nguy cơ viêm mạch máu và ảnh hưởng đến lưu lượng máu, dẫn đến các bệnh lý về tim.</p>
 
 <div class="hidden-xs text-center">
 <center><img src="https://placehold.it/728x90" class="img-responsive"/></center>
@@ -178,7 +141,7 @@ $(function() {
 <div class="hidden-xs hidden-sm hidden-md text-center">
 <center><img src="https://placehold.it/200x200" class="img-responsive"/></center>
 </div>
-<ul class="nav nav-pills nav-stacked"><li class="active"><a href="/work">Xem thêm cùng mục</a></li><li><a href="/work/jekyll-on-android">Jekyll on android</a></li></ul>
+<ul class="nav nav-pills nav-stacked"><li class="active"><a href="/life">Xem thêm cùng mục</a></li><li><a href="/life/khoi-nhang-doc-nhu-khoi-thuoc">Khói nhang độc như khói thuốc</a></li></ul>
 
 <ul class="nav nav-pills nav-stacked"><li class="active"><a href="/tag#ghim">ghim</a></li><li><a href="/me/0jekyll-la-gi">0jekyll là gì</a></li></ul>
 
@@ -186,7 +149,7 @@ $(function() {
 					</div>
 					<div class="col-xs-6">
 						<div class="row">
-<div class="img-thumbnail"><h4><a href="/orther/jekyll-liquid-cheatsheet">jekyll liquid cheatsheet</a></h4><img src="https://jekyllrb.com/img/logo-2x.png" alt="jekyll liquid cheatsheet" class="img-thumbnail"/></div>
+
 
 <div>
 <center><img src="https://placehold.it/150x150" class="img-responsive"/></center>

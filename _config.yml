@@ -1,7 +1,7 @@
 # Site settings
 baseurl: "" # /gh-pages
 asseturl: "/assets"
-skin: "classic"
+skin: "yzazy"
 lang:
  read_more: ">>"
  showpostby: "Bài cùng mục: "
