@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Làm người, cảnh giới cao nhất, kỳ thực là 2 chữ “giả khờ”
+title: Làm người nên “giả khờ”
 author: admin
 tags: ["suy ngẫm"]
 ---
@@ -12,7 +12,7 @@ Làm người, cảnh giới cao chính là giống kẻ khờ, rõ ràng cái g
 
 Xã hội hiện nay thật giả lẫn lộn, lòng người trắng đen khó đoán. Dù bạn thực sự là người thông minh, nhưng một khi thể hiện ra, sẽ lập tức sẽ bị người khác đố kỵ.
 
-Một người thích khoe khoang, có thể vì muốn đề cao bản thân, vì hư vinh, muốn nở mày nở mặt…, nhưng khi bạn làm điều đó ở chốn quan trường hoặc tại nơi làm việc, tất sẽ bị mọi người xa lánh. Như vậy, nếu cứ thích gì làm nấy, đó là hành động thông minh hay là gây họa?￼
+Một người thích khoe khoang, có thể vì muốn đề cao bản thân, vì hư vinh, muốn nở mày nở mặt…, nhưng khi bạn làm điều đó ở chốn quan trường hoặc tại nơi làm việc, tất sẽ bị mọi người xa lánh. Như vậy, nếu cứ thích gì làm nấy, đó là hành động thông minh hay là gây họa?
 
 #### 2. Trí tuệ nói chuyện: Đừng dùng miệng lưỡi sắc bén để luận bàn khuyết điểm của người
 
