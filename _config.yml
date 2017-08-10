@@ -1,11 +1,11 @@
 # Site settings
 baseurl: "" # /gh-pages
 asseturl: "/assets"
-skin: "minifi"
+skin: "yzazy"
 
 # langsite
 lang:
- brandname: "yzazy"
+ brandname: "YzAzY"
  read_more: ">>"
  showpostby: "danh mục: "
  postincat: "cùng mục"
