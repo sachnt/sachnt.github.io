@@ -5,7 +5,7 @@ author: admin
 tags: ["suy ngẫm"]
 ---
 Người khờ khạo, thường không thích thể hiện bản thân, như thế có thể tránh được tai họa không đáng có. Ngốc nghếch một chút, lại có thể giữ được ân tình, có thể bao dung độ lượng, thì cuộc sống mới thanh thản an vui.
-{% include imgpost key='.jpg' %}
+{% include img key='/1.jpg' %}
 #### 1. Trí tuệ giữ mình: Trong lòng hiểu rõ, ngoài mặt hồ đồ
 
 Làm người, cảnh giới cao chính là giống kẻ khờ, rõ ràng cái gì cũng biết, nhưng lại biểu lộ giống như kém cỏi. Loại người này không thích khoa trương, không tỏ ra tài trí hơn người, luôn bình dị gần gũi, như vậy trái lại, lại được mọi người yêu thích.

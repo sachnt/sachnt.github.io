@@ -6,7 +6,7 @@ tags: ["suy ngẫm"]
 ---
 Thất tình ở đây là tình cảm, là sự phản ứng tâm lý khi sáu giác quan tiếp xúc với sáu đối tượng bên ngoài. Thất tình là bảy sự hoạt động, phản ứng tâm lý khác nhau ở góc độ tính chất, hình thức mang tính phổ biến ở nơi con người.
 Đó là : Hỷ, nộ, ai, lạc, ái, ố, dục ( mừng, giận, buồn, vui, thương, ghét, muốn )
-{% include imgpost key='/1.jpg' %}
+{% include img key='/1.jpg' %}
 1. Hỷ 
 Là niềm vui được biểu hiện ra ánh mắt, nét mặt, nụ cười hay hành vi như quơ tay, múa chân chẳng hạn. Hỷ này có được khi ta gặt hái một thành công hoặc có kẻ nào đó làm cho ta vừa ý.
 
