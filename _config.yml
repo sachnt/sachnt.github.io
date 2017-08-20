@@ -1,12 +1,13 @@
 # Site settings
 baseurl: "" # /gh-pages
 asseturl: "/assets"
-skin: "yzazy"
+skin: "bs3"
 
 # langsite
 lang:
  brandname: "YzAzY"
  read_more: ">>"
+ view: "XEM"
  showpostby: "danh mục: "
  postincat: "cùng mục"
  postintag: "cùng thẻ"
@@ -18,4 +19,6 @@ permalink: /:categories/:title
 paginate: 12
 paginate_path: /page:num
 
-gems: [jekyll-paginate]
+plugins:
+ - jekyll-feed
+ - jekyll-paginate

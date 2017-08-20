@@ -1,0 +1,10 @@
+<div class="col-sm-6 col-lg-4">
+<div class="row d-block">
+<div class="img-thumbnail bg-success">
+<a href="{{site.baseurl}}{{post.url}}" class="text-white">{{post.title}}</a>
+{% if (include.img) %}
+<div class="thumbfix">{% include imgthumb %}</div>
+{% endif %}
+</div>
+</div>
+</div>

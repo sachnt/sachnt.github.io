@@ -1,0 +1,4 @@
+<div class="row">
+{% include postintag %}
+{% include post_year %}
+</div>
