@@ -1,7 +1,7 @@
 # Site settings
 baseurl: "" # /gh-pages
 asseturl: "/assets"
-skin: "bs3"
+skin: "yzazy"
 
 # langsite
 lang:
