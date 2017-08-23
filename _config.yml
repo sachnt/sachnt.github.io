@@ -16,7 +16,7 @@ lang:
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
-paginate: 8
+paginate: 6
 paginate_path: /page:num
 
 plugins:
