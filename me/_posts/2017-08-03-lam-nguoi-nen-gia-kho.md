@@ -46,7 +46,7 @@ Thiền sư nói với anh ta: “Muốn không bị đụng đầu, thì trư�
 
 Cách đối nhân xử thế cũng là như thế.
 
-#### 7. Trí tuệ giao tiếp: Thông tuệ mà giả khờ, kết duyên rộng rãi￼
+#### 7. Trí tuệ giao tiếp: Thông tuệ mà giả khờ, kết duyên rộng rãi
 
 Trong giao tiếp giữa người với người, thật thật giả giả, không ai có thể tranh biện rõ ràng được. Lời của người khác, có lúc đúng, có lúc lại không.
 

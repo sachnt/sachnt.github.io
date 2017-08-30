@@ -2,7 +2,7 @@
 layout: post
 title: Khói nhang độc như khói thuốc
 author: admin
-tags: ["Sức khỏe"]
+tags: ["sức khỏe"]
 ---
 Nhang được làm từ một hợp chất gồm mùn cưa và chất kết dính. Mùn cưa có thể được lấy từ một loại gỗ bất kỳ, nên rất khó bảo đảm chất lượng khói sinh ra khi đốt, và không thẻ kiểm soát việc có độc hay.
 {% include img key='http://tinhtuy.org/wp-content/uploads/2017/06/di-chua-1.jpg' %}
