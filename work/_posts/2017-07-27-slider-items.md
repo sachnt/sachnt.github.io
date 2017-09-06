@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bài slider mục life
+title: Bài slider mục orther
 author: admin
 tags: [ghim]
 ---
