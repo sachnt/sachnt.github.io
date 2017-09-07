@@ -1,6 +1,6 @@
 <div class="col-sm-6 col-md-8">
 <div class="row">{% include navp %}</div>
-<div class="row"><script>(adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-1736135093326901",enable_page_level_ads: true});</script>
+<div class="row">
 <div id="entry" class="col-xs-12 img-thumbnail">
 <h4>{{page.title}}</h4>
 {% include {{site.skin}}/adsfluid %}
