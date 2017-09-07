@@ -14,7 +14,9 @@
 {% include search %}
 <div class="col-xs-6"><div class="row">
 {% include postintag %}
+{% include {{site.skin}}/ads2 %}
 {% include postincat %}
 </div></div><div class="col-xs-6"><div class="row">
 {% include post_year %}
-</div></div><div class="col-xs-12"><div class="row">{% include {{site.skin}}/adsfluid %}{% include sitetags %}</div></div></div></div>
+{% include {{site.skin}}/ads3 %}
+</div></div><div class="col-xs-12"><div class="row">{% include {{site.skin}}/ads1 %}{% include sitetags %}</div></div></div></div>
