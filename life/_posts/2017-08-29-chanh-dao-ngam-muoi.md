@@ -7,7 +7,7 @@ tags: ["sức khỏe"]
 Chỉ nhờ một lọ chanh ngâm với thứ này dùng trong nửa tháng, hàng nghìn cô gái đã giảm thành công tới 20kg mà chẳng hề ăn kiêng, tập gym vất vả.
 {% include img %}
 Với thành phần giàu axit citric và vitamin C, chanh không chỉ là nguyên liệu tuyệt vời giúp thúc đẩy quá trình đốt cháy mỡ thừa mà còn thanh lọc cơ thể và làm đẹp da từ bên trong. Khi đem chanh ngâm với muối và mật ong, nguồn vitamin trong hỗn hợp vừa bổ sung năng lượng cho cơ thể nhưng cũng giúp chị em giảm cân vô cùng hiệu quả. Chỉ cần làm theo cách sau, các cô gái có thể giảm tới 20kg mà không phải gồng mình ăn kiêng, tập gym kham khổ.
-
+{% include toc %}
 ### Chuẩn bị nguyên liệu:
 
 – 1kg chanh đào (chọn quả tươi, mọng nước).
