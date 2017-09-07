@@ -1,13 +1,6 @@
 <div class="col-sm-6 col-md-8">
 <div class="infinite-scroll">
 <div class="row">
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout="image-middle"
-     data-ad-layout-key="-ek+6f+l-eu+ol"
-     data-ad-client="ca-pub-1736135093326901"
-     data-ad-slot="5358247789"></ins>
 {% for post in paginator.posts %}{% include{{site.skin}}/view_grid %}{% endfor %}</div>
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
