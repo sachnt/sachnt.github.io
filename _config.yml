@@ -2,6 +2,7 @@
 baseurl: "" # /gh-pages
 asseturl: "/assets"
 skin: "yzazy"
+gtm: "GTM-TC766RK"
 
 # langsite
 lang:
