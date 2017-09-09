@@ -14,9 +14,22 @@
 {% include search %}
 <div class="col-xs-6"><div class="row">
 {% include postincat %}
-{% include {{site.skin}}/ads2 %}
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout="image-top"
+     data-ad-layout-key="-8c+14-f3+ge+nx"
+     data-ad-client="ca-pub-1736135093326901"
+     data-ad-slot="3085763071"></ins>
 {% include postintag %}
 </div></div><div class="col-xs-6"><div class="row">
 {% include post_year %}
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout="image-top"
+     data-ad-layout-key="-8s-1g-2+13+8d"
+     data-ad-client="ca-pub-1736135093326901"
+     data-ad-slot="6774113686"></ins>
 {% include {{site.skin}}/ads3 %}
 </div></div><div class="col-xs-12"><div class="row">{% include {{site.skin}}/ads1 %}{% include sitetags %}</div></div></div></div>
