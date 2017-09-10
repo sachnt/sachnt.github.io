@@ -1,6 +1,6 @@
 <div class="col-sm-6 col-md-8">
 <div class="row">{% include navp %}</div>
-<div class="row">
+<div class="row">{% include ads key='7055462516' %}
 <div id="entry" class="col-xs-12 img-thumbnail">
 <h4>{{page.title}}</h4>
 <div class="text-justify">
@@ -10,13 +10,15 @@
 </div>
 </div>
 </div><div class="col-sm-6 col-md-4"><div class="row">
+{% include ads key='8112064324' %}
 {% include search %}
 <div class="col-xs-6"><div class="row">
 {% include postincat %}
-
+{% include ads key='8317623041' %}
 {% include postintag %}
 </div></div><div class="col-xs-6"><div class="row">
-
+{% include ads key='8860193303' %}
 {% include post_year %}
 </div></div><div class="col-xs-12"><div class="row">
-{% include sitetags %}</div></div></div></div>
+{% include sitetags %}
+</div></div></div></div>
