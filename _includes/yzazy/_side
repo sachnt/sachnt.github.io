@@ -1,4 +1,5 @@
 <div class="row">
+{% include ads key='8112064324' %}
 {% include search %}
 <div class="col-xs-6">
 <div class="row">
@@ -6,5 +7,5 @@
 <ul class="list-group">{% include postintag %}</ul></div>
 </div><div class="col-xs-6">{% include post_year %}
 <div class="row">{% include ads key='8860193303' %}</div></div>
-<div class="col-xs-12"><div class="row">{% include ads key='8112064324' %}
+<div class="col-xs-12"><div class="row">
 {% include sitetags %}</div></div></div>
