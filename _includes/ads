@@ -1,4 +1,4 @@
 <!-- data-ad-test="on" | auto:8860193303,8317623041,8112064324 | w:7055462516,7815022172,3705097216,1966787367,1476010383-->
 <div class="bg-info">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle slot{{include.key}}" style="display:block" data-ad-client="ca-pub-1736135093326901" data-ad-slot="{{include.key}}" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle slot{{include.key}}" style="display:block" data-ad-client="ca-pub-1736135093326901" data-adtest="on" data-ad-slot="{{include.key}}" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
