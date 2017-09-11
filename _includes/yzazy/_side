@@ -1,8 +1,14 @@
 <div class="row">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 {% include ads key='8112064324' %}
 {% include search %}
 <div class="col-xs-6">
 <div class="row">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 {% include ads key='8317623041' %}
 <ul class="list-group">{% include postintag %}</ul></div>
 </div><div class="col-xs-6">{% include post_year %}
