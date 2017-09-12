@@ -1,17 +1,12 @@
 <div class="row">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="auto"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 {% include search %}
 <div class="col-xs-6">
 <div class="row">{% include postintag %}
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="auto"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 </div><div class="col-xs-6">
 <div class="row">{% include ads key='8860193303' %}</div>
 {% include post_year %}
 </div>
 <div class="col-xs-12"><div class="row">
-{% include sitetags %}</div></div></div>
+{% include tags %}</div></div></div>
