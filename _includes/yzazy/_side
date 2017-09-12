@@ -7,7 +7,7 @@
 {% include ads key='8860193303' %}
 </div>
 </div><div class="col-xs-6">
-{% include adtest %}
+<div class="row">{% include adtest %}</div>
 {% include post_year %}
 </div>
 <div class="col-xs-12"><div class="row">
