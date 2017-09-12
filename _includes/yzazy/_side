@@ -1,11 +1,13 @@
 <div class="row">
+{% include adtest %}
 {% include search %}
 <div class="col-xs-6">
+<div class="row">{% include ads key='8860193303' %}</div>
 <div class="row">
 {% include postintag %}
-{% include adtest %}</div>
+</div>
 </div><div class="col-xs-6">
-<div class="row">{% include ads key='8860193303' %}</div>
+<div class="row">{% include adtest %}</div>
 {% include post_year %}
 </div>
 <div class="col-xs-12"><div class="row">
