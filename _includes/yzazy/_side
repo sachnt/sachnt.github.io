@@ -1,10 +1,9 @@
 <div class="row">
 {% include search %}
 <div class="col-xs-6">
-<div class="row">{% include postintag %}
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="auto"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+<div class="row">
+{% include postintag %}
+{% include adtest %}</div>
 </div><div class="col-xs-6">
 <div class="row">{% include ads key='8860193303' %}</div>
 {% include post_year %}
