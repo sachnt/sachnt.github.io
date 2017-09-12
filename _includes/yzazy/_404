@@ -1,7 +1,7 @@
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="auto"></ins>
 <div class="col-sm-6 col-md-8">***lỗi 404***<br>{{'now' | date: "%s" | minus : 604800 | date: "%b %d, %Y %I:%M %p" | uri_encode | replace:"+","%20"}}<br>{% assign mySha = 'now'|date:"%s"|minus:604800 %}{{mySha}}
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="autorelaxed"></ins>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="auto"></ins>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-4">
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="autorelaxed"></ins>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-google" data-adtest="on" data-ad-format="auto"></ins>
 {% include {{site.skin}}/_side %}</div>
